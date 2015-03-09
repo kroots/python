@@ -1,0 +1,1 @@
+/Users/kroots/anaconda/Launcher.app
